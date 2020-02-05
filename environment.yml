@@ -1,0 +1,7 @@
+name: idb
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - lxml
+  - requests
